@@ -9,13 +9,13 @@ function App() {
             <div className="description">
               <h3>Autor. Ing. Raul Gomez</h3>
               <br/>
-              <br/>
-              <br/>
+              
+              
               <div class="grid-container">
-                <div class="grid-item"><h6>Analisis de la investigacion sobre radio en bolivia...</h6></div>
-                  <div class="grid-item"><h6>325 pag</h6></div>
+                <div class="grid-item"><p>Analisis de la investigacion sobre radio en bolivia...</p></div>
+                  <div class="grid-item"><p>325 pag</p></div>
                 </div>
-                <br/>
+                
                 <hr/>
             </div>
             
